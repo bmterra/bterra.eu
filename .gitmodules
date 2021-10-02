@@ -1,0 +1,3 @@
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = git@github.com:bmterra/hugo-theme-introduction.git
