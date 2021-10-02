@@ -35,7 +35,7 @@ jobs:
             ${{ runner.os }}-node-
 
       - name: Install postcss-cli
-        run: npm install postcss-cli postcss-import
+        run: npm install postcss-cli postcss
 
       - name: Build
         run: hugo --minify
