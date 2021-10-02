@@ -1,7 +1,7 @@
 baseURL = 'https://www.bterra.eu/'
 languageCode = 'en-uk'
 title = 'Bruno Terra'
-
+theme = "introduction"
 
 [params]
     themeStyle                   = "dark"                  # Choose "light" or "dark" or "auto"
