@@ -4,6 +4,7 @@ title = 'Bruno Terra'
 theme = "introduction"
 
 [params]
+    googleanalytics = "G-6HFE2TL8EX"
     themeStyle                   = "dark"                  # Choose "light" or "dark" or "auto"
     favicon                      = "/img/fav.ico"          # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
