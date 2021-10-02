@@ -16,7 +16,7 @@ title = 'Bruno Terra'
         introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
         showLatest               = false                    # Show latest blog post summary
         showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
-        allPostsArchiveFormat    = false                    # show all posts in an archive format
+        allPostsArchiveFormat    = true                    # show all posts in an archive format
         # numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
         localTime                = true                    # Show your current local time in contact section
         timeZone                 = "Europe/Lisbon"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -89,10 +89,10 @@ title = 'Bruno Terra'
 [languages]
     [languages.en]
         languageName     = "English"
-        languageCode     = "en-us"
+        languageCode     = "en-uk"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Introduction"
+        title            = "roll a 1d20.. critical hit."
         [languages.en.params]
-            description  = "Just another meatbag's Website"   # Max 160 characters show in search results
-            # footerText   = ""                      # Text to override default footer text (markdown allowed)
+            description  = "bruno's website. rogue."   # Max 160 characters show in search results
+            footerText   = "eof."                      # Text to override default footer text (markdown allowed)

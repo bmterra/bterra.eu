@@ -1,19 +1,15 @@
 ---
 title: "About"
 image: "profile.jpg"
-weight: 8
+weight: 2
 ---
 
-This is my homepage
+Facts:
 
-
-### Human features
-
-* I do things, check the projects section
-* Responsive display on any size screen
-* Light and Dark themes right out of the box
-* Multilingual - supports side-by-side content in multiple languages
-* Any number of custom index page sections from Markdown files
-* _Projects_ section with any number of projects: highly configurable as a photo gallery, modals, or external links
-* _Blog_ section with optional _Latest Post_, on the main page or as a separate section
-* Styled Markdown throughout with support for Hugo's syntax highlighting
+* Human. Rogue.
+* From Portugal, most times UK
+* But always on the moon 🌑
+* DevOps for business and funzies (solve problems, automate all the things)
+* I decided to wander off in a White Dragon's lair by myself. once.
+* Liek teaching
+* Love to photographs
