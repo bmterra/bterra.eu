@@ -5,7 +5,6 @@ resources:
     - src: kwad.jpg
       params:
           weight: -100
-project_timeframe: Since 2019
 ---
 
 The chase for a new hobby ended up in a absurd amount of learning
