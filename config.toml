@@ -2,7 +2,7 @@ baseURL = 'https://www.bterra.eu/'
 languageCode = 'en-uk'
 title = 'Bruno Terra'
 theme = "introduction"
-googleAnalytics: UA-209051943-2
+googleAnalytics = "UA-209051943-2"
 
 [params]
     themeStyle                   = "dark"                  # Choose "light" or "dark" or "auto"
