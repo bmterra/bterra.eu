@@ -2,9 +2,9 @@ baseURL = 'https://www.bterra.eu/'
 languageCode = 'en-uk'
 title = 'Bruno Terra'
 theme = "introduction"
+googleAnalytics: UA-209051943-2
 
 [params]
-    googleanalytics = "UA-209051943-2"
     themeStyle                   = "dark"                  # Choose "light" or "dark" or "auto"
     favicon                      = "/img/fav.ico"          # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
